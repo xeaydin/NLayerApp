@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LiPxhI5+PvESm/z7I7MbaRWmCnLeY9rdsHFK7ZuyyUH9/onbstW5FOak/ZH4gjTgZaFrfsp2qe/PSdo1rbkz+A==",
+  "dgSpecHash": "SivgNKQSe3Z4ibyBG+OeudnB9CdzBlcc6VM0LhjdR+wDU+nE6pqVTFaxhekoMbx6eUxShgtxsDiD1+4qkW+/wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\10132430\\RiderProjects\\NLayerUdemyApp\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\10132430\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\10132430\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\10132430\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\10132430\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\10132430\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\10132430\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\10132430\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\10132430\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\10132430\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

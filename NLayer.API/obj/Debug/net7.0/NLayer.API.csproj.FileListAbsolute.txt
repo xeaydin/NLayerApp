@@ -260,3 +260,7 @@ C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\runti
 C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.API\obj\Debug\net7.0\NLayer.API.sourcelink.json
