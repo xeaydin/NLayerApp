@@ -1,0 +1,11 @@
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.deps.json
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\refint\NLayer.Core.dll
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.pdb
+C:\Users\10132430\RiderProjects\NLayerUdemyApp\NLayer.Core\obj\Debug\net7.0\ref\NLayer.Core.dll
